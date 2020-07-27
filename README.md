@@ -1,3 +1,3 @@
 # README
 
-This is the finance tracker app.
+This is the finance tracker App.
